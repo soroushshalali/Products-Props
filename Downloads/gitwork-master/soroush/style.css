@@ -1,0 +1,31 @@
+/* Veränder einfach jedes 2. oder wie du möchtest */
+/* Veränder einfach jedes 2. oder wie du möchtest */
+/* Veränder einfach jedes 2. oder wie du möchtest */
+body{
+    background-color: #3e3a44;
+}
+h1{
+    color: #fff;
+    font-size: 2em;
+}
+h2{
+    color: #aaa;
+    font-size: 1.5em;
+}
+h3{
+    color: mediumspringgreen;
+    font-size: 1em;
+    animation-name: ani1;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+div{
+    margin-left: 40%;
+    width: 500px;
+    height: 500px;
+    background-color: #4021f2;
+}
+/* Veränder einfach jedes 2. oder wie du möchtest */
+/* Veränder einfach jedes 2. oder wie du möchtest */
+/* Veränder einfach jedes 2. oder wie du möchtest */
+
