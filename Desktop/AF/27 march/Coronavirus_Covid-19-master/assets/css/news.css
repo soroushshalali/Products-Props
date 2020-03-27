@@ -1,0 +1,52 @@
+#content {
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    justify-content: space-between;
+    text-align: center;
+    background-color: white;
+    width: 80%;
+
+}
+section{
+    background-color: #fff;
+    margin-top: 2%;
+}
+div {
+width: 100%;
+    
+}
+.info {
+    display: flex;
+    justify-content: center;
+}
+figure {
+    width: 100%;
+}
+img {
+    width: 100%;
+}
+h1{
+    font-size: 3.7em;
+    width: 90%;
+    text-align: center;
+    color: #000;
+    animation-name: anim, anim2, anim3;
+    animation-duration: 0.77s;
+    animation-iteration-count: infinite;
+}
+@keyframes anim {
+    from {background-color: red;}
+    to {background-color: black;}
+}
+@keyframes anim2 {
+    from {color: red;}
+    to {color: #fff;}
+}
+@keyframes anim3 {
+    from {margin-right: 40px;}
+    to {margin-left: 40px;}
+}
+
+iframe{
+    width: 100%;
+}
